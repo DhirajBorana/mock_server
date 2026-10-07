@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "platform": "android",
+  "pwaEnv": "prod",
+  "assetOrigin": "https://915.groww.in",
+  "assetDomain": "915.groww.in",
+  "nextAssetsDir": "next",
+  "urlPathPrefix": "/_next/",
+  "loadUrlTemplates": {
+    "/widget/chart": "https://915.groww.in/widget/chart/index.html",
+    "/widget/chart-v2": "https://915.groww.in/widget/chart-v2/index.html"
+  },
+  "appShell": {
+    "version": "1.0.0",
+    "zip": "app-shell.zip",
+    "sha256": "33d0da924dc01e034b8d763edb5fb75661f66b1f390b5d5774ec7f00e033395c"
+  },
+  "chartingLibrary": {
+    "version": "31.2.0",
+    "internalId": "36c4a425f144924fd9ef50c4e2b95f86ab93be96",
+    "zip": "charting-library.zip",
+    "sha256": "35b80146f1f4573981ea86df196cd973e26584a23a77346ff95334db2b5ab482"
+  }
+}

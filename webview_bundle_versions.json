@@ -11,7 +11,7 @@
     "/widget/chart-v2": "https://915.groww.in/widget/chart-v2/index.html"
   },
   "appShell": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "zip": "app-shell.zip",
     "sha256": "33d0da924dc01e034b8d763edb5fb75661f66b1f390b5d5774ec7f00e033395c"
   },

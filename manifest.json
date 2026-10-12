@@ -2,11 +2,11 @@
   "platform": "android",
   "pwaEnv": "prod",
   "chartClient": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "zip": "chart-client.zip"
   },
   "chartingLibrary": {
-    "version": "31.2.0",
+    "version": "31.2.1",
     "zip": "charting-library.zip"
   }
 }
